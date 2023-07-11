@@ -1,9 +1,9 @@
-import Data from "./Data";
+// import Data from "./Data";
 
-const name=Data().name;
+// const name=Data().name;
 
-function Hello () {
-    return <h2>{name}</h2>
-}
+// function Hello () {
+//     return <h2>{name}</h2>
+// }
 
-export default Hello; 
+// export default Hello; 

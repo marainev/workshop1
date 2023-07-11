@@ -1,12 +1,9 @@
-import Data from "./Data";
-import Hello from "./Hello";
-
-
+import Content from "./BusinessCard";
 
 function Main () {
     return (
         <main>
-            <Hello/>
+            <Content/>
         </main>
     );
 }

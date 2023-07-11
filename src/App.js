@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import Aside from './components/Aside';
-import Data from './components/Data';
+// import Content from './components/BusinessCard';
+// import Data from './components/Data';
 import Footer from './components/Footer';
 import Header from './components/Header';
 // import Hello from './components/Hello';
