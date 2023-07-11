@@ -1,6 +1,6 @@
 
 
 export default function Data () {
-    return {name:"Blue Cat"}
+    return {name:"Blue Comet"}
 };
 
